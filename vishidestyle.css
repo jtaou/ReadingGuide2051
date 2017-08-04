@@ -1,4 +1,11 @@
 #ans {
     color: purple;
-    visibility: hidden
+/*visibility: hidden*/
+}
+#comm{
+color:green
+
+}
+#prob {
+color:red
 }
